@@ -6,6 +6,6 @@ This is chat bot ai project using open ai
  visit:
     https://platform.openai.com/signup
 
-    1. Make an account or sign in
-    2. Click "View API Keys" from the top right menu.
-    3. Click "Create new secret key"
+ 1. Make an account or sign in
+ 2. Click "View API Keys" from the top right menu.
+ 3. Click "Create new secret key"
