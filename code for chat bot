@@ -16,7 +16,6 @@ while True:
     2. Click "View API Keys" from the top right menu.
     3. Click "Create new secret key"
 
-    Then, open the Secrets Tool and add OPENAI_API_KEY as a secret.
     """)
     exit(1)
 
